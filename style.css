@@ -1,0 +1,29 @@
+.box{
+    height: 300px;
+    background-color: rgb(61, 210, 251);
+}
+.box2{
+    height: 50px;
+    background-color: rgb(142, 168, 178);
+}
+.section-2{
+    background-color: rgb(245, 241, 123);
+}
+.justify-between{
+    justify-content: space-between;
+}
+.section-4{
+    background-color: rgb(247, 100, 1)
+}
+.justify-center{
+    justify-content: center;
+}
+.section5{
+    background-color: blanchedalmond;
+}
+.section-9{
+    background-color: rgba(189, 136, 250, 0.856);
+}
+.section6{
+    background-color: rgb(117, 248, 209);
+}
